@@ -1,0 +1,11 @@
+Nome da receita: Ceviche 
+
+Ingredientes:
+Ingrediente: peixe fresco(robalo ou til�pia), Quantidade: 500.0 gramas
+Ingrediente: suco de lim�o, Quantidade: 3.0 unidade
+Ingrediente: cebola roxa, Quantidade: 1.0 unidade
+Ingrediente: coentro picado, Quantidade: 1.0 unidade
+Ingrediente: sal e pimenta, Quantidade: 1.0 a gosto
+
+Modo de preparo:
+Corte o peixe em cubos e misture com o suco de lim�o.Deixe marinar por 30 minutos.Adicione a cebola, o coentro, o sal e a pimenta. Sirva com torradas.

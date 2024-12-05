@@ -1,0 +1,10 @@
+Nome da receita: Bife Acebolado
+
+Ingredientes:
+Ingrediente: bife, Quantidade: 250.0 gramas
+Ingrediente: cebola, Quantidade: 100.0 gramas
+Ingrediente: azeite, Quantidade: 50.0 ml
+Ingrediente: sal, Quantidade: 30.0 gramas
+
+Modo de preparo:
+Tempere os bifes com sal e pimenta

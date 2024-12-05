@@ -1,0 +1,11 @@
+Nome da receita: bolo
+
+Ingredientes:
+Ingrediente: farinha de trigo, Quantidade: 500.0 gramas
+Ingrediente: leite, Quantidade: 250.0 ml
+Ingrediente: acucar, Quantidade: 250.0 gramas
+Ingrediente: oleo, Quantidade: 150.0 ml
+Ingrediente: manteiga, Quantidade: 100.0 gramas
+
+Modo de preparo:
+bata tudo e coloque no forno pre aquecido

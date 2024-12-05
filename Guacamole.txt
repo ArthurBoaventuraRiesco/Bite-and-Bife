@@ -1,0 +1,12 @@
+Nome da receita: Guacamole
+
+Ingredientes:
+Ingrediente: abacate maduro, Quantidade: 2.0 unidade
+Ingrediente: cebola picada, Quantidade: 1.0 unidade
+Ingrediente: tomate picado, Quantidade: 1.0 unidade
+Ingrediente: suco de lim�o, Quantidade: 1.0 unidade
+Ingrediente: coentro picado, Quantidade: 1.0 unidade
+Ingrediente: sal e pimenta, Quantidade: 1.0 a gosto
+
+Modo de preparo:
+Amasse os abacates com um garfo.Misture todos os ingredientes e ajuste o tempero a gosto.Sirva com tortilhas ou como acompanhamento.

@@ -1,0 +1,11 @@
+Nome da receita: Spaghetti Aglio e Olio
+
+Ingredientes:
+Ingrediente: espaguete, Quantidade: 200.0 gramas
+Ingrediente: Alho picado, Quantidade: 3.0 unidade
+Ingrediente: azeite de oliva, Quantidade: 45.0 ml
+Ingrediente: pimenta vermelha, Quantidade: 5.0 gramas
+Ingrediente: salsinha picada , Quantidade: 1.0 a gosto
+
+Modo de preparo:
+Cozinhe o espaguete conforme as instru��es da embalagem.Enquanto isso, refogue o alho no azeite at� dourar, adicione a pimenta vermelha e misture.Misture o espaguete cozido na panela com o alho e azeite.Finalize com salsinha picada.

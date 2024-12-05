@@ -1,0 +1,12 @@
+Nome da receita: Panqueca Americana
+
+Ingredientes:
+Ingrediente: farinha de trigo, Quantidade: 120.0 gramas
+Ingrediente: a�ucar , Quantidade: 20.0 gramas
+Ingrediente: fermento em p�, Quantidade: 15.0 gramas
+Ingrediente: ovo, Quantidade: 1.0 unidade
+Ingrediente: leite, Quantidade: 120.0 ml
+Ingrediente: mateiga derretida, Quantidade: 25.0 ml
+
+Modo de preparo:
+Misture os ingredientes secos e depois adicione os ingredientes l�quidos.Cozinhe em uma frigideira untada at� que as panquecas fiquem douradas.Sirva com mel, frutas ou xarope de bordo.

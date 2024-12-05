@@ -1,0 +1,9 @@
+Nome da receita: frango frito
+
+Ingredientes:
+Ingrediente: frango, Quantidade: 500.0 kg
+Ingrediente: farinha de trigo, Quantidade: 500.0 gramas
+Ingrediente: sal, Quantidade: 500.0 gramas
+
+Modo de preparo:
+Passe os pedaços de frango primeiro na mistura de leite e ovo, e depois empane na farinha de trigo, cobrindo bem cada pedaço,Aqueça o óleo em uma frigideira grande ou panela funda. Quando o óleo estiver quente (cerca de 180°C), frite os pedaços de frango aos poucos, para não esfriar o óleo. Frite por 10 a 15 minutos, virando os pedaços até que fiquem dourados e crocantes.

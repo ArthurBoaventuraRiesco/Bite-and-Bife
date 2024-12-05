@@ -1,0 +1,11 @@
+Nome da receita: Focaccia
+
+Ingredientes:
+Ingrediente: farinha de trigo, Quantidade: 500.0 gramas
+Ingrediente: fermento biologico seco, Quantidade: 10.0 gramas
+Ingrediente: sal, Quantidade: 15.0 gramas
+Ingrediente: azeite de oliva, Quantidade: 20.0 ml
+Ingrediente: alecrim fresco, Quantidade: 1.0 a gosto
+
+Modo de preparo:
+Misture a farinha, o fermento, o sal e o azeite.Adicione �gua at� formar uma massa homog�nea.Modele a massa em uma forma e deixe descansar por 1 hora.Asse a 200�C por 20 minutos, decorando com alecrim antes de colocar no forno.
